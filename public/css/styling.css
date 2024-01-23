@@ -1,0 +1,30 @@
+.video{
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+#product{
+    background-image:url("../img/cover.jpg");
+    width: 100%;
+    background-size: cover;
+    height: 800px;
+
+}
+.slidesize{
+    height: 600px;
+    width: 100%;
+    object-fit: fill;
+}
+.cardphoto{
+    justify-content: center;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+hr{
+    color: black;
+}
